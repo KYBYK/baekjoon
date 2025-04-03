@@ -1,4 +1,4 @@
-package BJ_2720;
+package BJ_2903;
 
 import java.util.Scanner;
 
@@ -13,5 +13,7 @@ public class Main {
         int totalDot = oneLineDot * oneLineDot;
 
         System.out.println(totalDot);
+
+        scanner.close();
     }
 }
